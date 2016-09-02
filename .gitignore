@@ -1,0 +1,8 @@
+# Vim Files
+.*.swp
+
+# Generated Files
+bin/*
+gen/*
+log.txt
+gmon.out
